@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [`fcitx-switch/`](fcitx-switch/README.md): 在插入模式和普通模式之间自动切换 `fcitx5` 输入法状态
 - [`nvimtex/`](nvimtex/README.md): 保存 `*.tex` 时自动触发编译的插件，支持读取项目根目录 `settings.json`，并通过 `vimtex.conf` 覆盖 `target` 与 `recipe`
 
 ## 结构说明
@@ -12,6 +13,7 @@
 
 当前已收录：
 
+- `fcitx-switch`
 - `nvimtex`
 
 ## 使用方式
