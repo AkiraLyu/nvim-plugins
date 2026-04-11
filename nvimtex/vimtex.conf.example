@@ -1,0 +1,5 @@
+# target 路径相对于当前工作目录
+target=main.tex
+
+# recipe 可以写成单个工具名，也可以写成完整链路
+recipe=xelatex -> bibtex -> xelatex*2
